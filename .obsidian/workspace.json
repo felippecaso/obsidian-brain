@@ -155,12 +155,13 @@
       "command-palette:Open command palette": false,
       "custom-sort:Toggle custom sorting": false,
       "obsidian-kindle-plugin:Sync your Kindle highlights": false,
-      "periodic-notes:Open today": false,
-      "obsidian-git:Open Git source control": false
+      "obsidian-git:Open Git source control": false,
+      "periodic-notes:Open today": false
     }
   },
-  "active": "20b53cc679313b90",
+  "active": "6d754af6fba9386f",
   "lastOpenFiles": [
+    "BR Finances.md",
     "🧩 Resources/Highlights/Kindle/Uma aprendizagem.md",
     "🧩 Resources/Highlights/Kindle/Assis-Arrais-Dom Casmurro.md",
     "🧩 Resources/Highlights/Kindle/Human Hacking.md",
@@ -168,7 +169,6 @@
     "🧩 Resources/Highlights/Kindle/Harari-Geiger-Homo Deus.md",
     "🧩 Resources/Highlights/Kindle/Rovelli_et_al-The Order of Time.md",
     "🗺 Areas/Health/Terapia.md",
-    "BR Finances.md",
     " 🗃 Archive/Tattoo.md",
     "🧩 Resources/_templates/Daily.md",
     "🧩 Resources/_templates/1-1.md",
