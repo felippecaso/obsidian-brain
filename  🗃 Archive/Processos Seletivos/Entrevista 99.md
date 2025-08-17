@@ -1,0 +1,24 @@
+# Entrevista 99
+[[2021-11-30]]
+- Vaga: Data Analytics Manager
+	- Dentro da estrutura de Customer Experience (CX)
+	- Crescendo e expandindo estrutura (+400 pessoas Brasil, +1000 pessoas LatAm)
+	- Criando uma célula de BI dentro de CX
+	- Gestão de time (1 pessoa senior)
+- Outra posição: Expert de Data Analytics
+	- Alocada dentro do time de finanças
+	- Participar de migração do SAP para Oracle
+	- Mesma faixa salarial que gerente
+	- Também faz gestão de time (1 pessoa júnior)
+- Empresa no grupo DiDi desde 2018
+- Existe uma estrutura de BI centralizada a parte dos outros
+	- Atuam setorizados, de forma mais geral
+	- As outras vagas trabalham de forma mais direcionada
+- Faixa: entre 23k e 26k
+	- 3 a 12 salários de bônus
+	- R$700 de vale combustível
+	- Mudando para Osasco
+- Etapas do processo:
+	- Análise de Case + Entrevista
+	- Entrevista HR
+	- Entrevista Diretor

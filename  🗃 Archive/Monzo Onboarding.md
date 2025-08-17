@@ -1,0 +1,41 @@
+# Monzo Onboarding
+## Onboarding Session
+- POC: Osiro Imoedemhe
+- Values
+	- Be hard on problems, not people
+	- Think big, start small, own it
+	- Make a difference
+	- Help everyone belong
+	- Think customer first; grow Monzo safely
+	- Default to transparency
+- Remote onboarding
+	- Buddy - assigned by Manager
+	- Ask for help
+		- Notion as knowledge base
+		- Slack as the main communication tool
+	- Share openly
+		- Ask non-confidential questions in open channels
+		- Mental health is important
+		- Join community channels
+- Office health and safety
+	- Check whether there will be room
+	- Library reserved for onboarders
+	- Office tour available on Wednesday (**poll at 2pm**)
+- **This week**
+	- Get to know main tools: Slack and Notion
+	- Go through mandatory training (360Learning)
+	- Complete Business and Tech onboarding journey (360Learning)
+	- Face-to-face sessions on Google Meet
+- **Today**
+	- Laptop Onboarding
+	- Lunch Break
+	- Self Led Onboarding
+		- People Essentials
+			- **Do not complete HiBob Task until going through People Essentials**
+		- Using Slack
+		- Monzo History and Values
+	- Security at Monzo Virtual Session
+	- End of Day 1 Check-in
+## Remote Laptop Onboarding
+- felippefelisolacaso@monzo.com
+- Monzo Master Password: `truth dryer glitch cootie`

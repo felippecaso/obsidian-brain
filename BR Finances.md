@@ -1,0 +1,20 @@
+## Institutions
+- Revolut
+	- Account closed 04/06/2025
+- PicPay
+	- Requested to cancel 04/06/2025
+- Itaú
+- Nubank
+- BTG Pactual
+- Amazon Prime Credit Card
+- Nomad
+- Wise
+	- Country of Residence Brazil
+- Magie
+- Mercado Pago (?)
+- C6
+	- Account closed 04/08/2025
+- Ame
+	- App discontinued
+- Iti
+	- Probably already canceled

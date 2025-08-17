@@ -1,0 +1,35 @@
+{
+  "promptDelete": false,
+  "showLineNumber": false,
+  "alwaysUpdateLinks": true,
+  "communityThemeSortOrder": "download",
+  "foldIndent": true,
+  "foldHeading": true,
+  "pdfExportSettings": {
+    "pageSize": "A4",
+    "landscape": false,
+    "margin": "0",
+    "downscalePercent": 100
+  },
+  "legacyEditor": false,
+  "livePreview": true,
+  "mobileToolbarCommands": [
+    "editor:indent-list",
+    "editor:unindent-list",
+    "editor:toggle-bullet-list",
+    "editor:toggle-numbered-list",
+    "editor:insert-wikilink",
+    "editor:toggle-italics",
+    "editor:insert-embed",
+    "editor:insert-tag",
+    "editor:attach-file",
+    "editor:set-heading",
+    "editor:toggle-highlight",
+    "editor:toggle-code",
+    "editor:toggle-blockquote",
+    "editor:insert-link",
+    "editor:toggle-checklist-status"
+  ],
+  "defaultViewMode": "source",
+  "showInlineTitle": false
+}

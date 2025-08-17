@@ -1,0 +1,6 @@
+- Vegvisir + Aeghishalmur
+- Apollo's lyre
+- Crow + Eagle
+- Two bears or wolves fighting
+	- Physical
+	- Mental

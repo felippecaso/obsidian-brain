@@ -1,0 +1,2 @@
+# Orpheus
+> The meanest dog you'll ever meet, he ain't the hound dog in the street. He bares some teeth and tears some skin, but brother, that's the worst of him. The dog you really got to dread is the one that howls inside your head. It's him whose howling drives men mad, and a mind to it's undoing. You got a lonesome road to walk, and it ain't along the railroad track. It ain't along the black-top tar you've walked a hundred times before. I'll tell you where the real road lies: between your ears, behind your eyes. That is the path to paradise, likewise, the road to ruin.

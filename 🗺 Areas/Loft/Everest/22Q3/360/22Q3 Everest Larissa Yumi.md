@@ -1,0 +1,7 @@
+# 22Q3 Everest [[Larissa Yumi]]
+
+Lari, você trouxe uma energia muito grande ao nosso time! Desde o início, você demonstrou muito senso de responsabilidade pelos resultados e pela gestão da equipe. Isso se refletiu na construção muito rápida de relações de confiança com a equipe, tornando a transição de lideranças muito mais suave. Nos próximos passos, busque potencializar essa característica não só com a equipe mas também com stakeholders; essa proximidade irá tornar o caminho mais suave de percorrer.
+
+Vejo também oportunidade de você continuar desenvolvendo a liderança com menos contexto do detalhe, que já vem acontecendo. Pensar e definir quais premissas do negócio e EPODs que tem proximidade você precisa levar como base pode ser algo que ajuda nesse processo. Isso te permitirá desenvolver e demonstrar uma Adaptabilidade cada vez maior, reconhecendo que muitas vezes o desconforto faz parte do caminho!
+
+Por fim, com algumas "poeiras" abaixando, você pode aproveitar também a oportunidade de conhecer um pouco mais a fundo nossas ferramentas e processos técnicos. Isso te colocará cada vez mais em posição de referência para ajudar a equipe nos desafios micro. Conte também comigo para ajudar nesse desafio!

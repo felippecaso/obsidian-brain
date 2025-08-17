@@ -1,0 +1,1 @@
+https://github.com/lynchjames/obsidian-day-planner/blob/main/README.md

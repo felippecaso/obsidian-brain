@@ -1,0 +1,1 @@
+- [[Talles Dantas]], [[2022-12-16-Friday]] - mapear dentro do Grupo Loft qual imobiliária é cliente de qual empresa

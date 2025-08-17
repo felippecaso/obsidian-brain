@@ -1,0 +1,5 @@
+# 22Q3 Everest Tiago Vinicius
+
+Vini, sua habilidade de quebrar soluções complexas em passos menores se destaca na equipe e nas interações com stakeholders que acompanho, como por exemplo nos apoios nos canais do Slack. Essa característica pode continuar te potencializando tanto como referência técnica quanto demonstrando um Foco em Clientes cada vez maior.
+
+Em uma visão parcial e lateral que tenho (portanto, sujeita a vieses), vejo oportunidade em você balancear uma visão do micro vs. macro em comunicações e influência com times laterais. Isso pode te abrir espaço para uma postura mais ativa na construção da nossa estratégia de plataforma de dados. Um exemplo de como isso poderia ser demonstrado é ao equilibrar discussões e oportunidades de melhoria no ferramental e estratégia que temos hoje entre incrementais e outras mais disruptivas, nos fazendo chegar mais perto do mundo ideal e mudando de patamar com relação a alguma parte das ferramentas e processos.

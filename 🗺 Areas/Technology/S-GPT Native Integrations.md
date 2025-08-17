@@ -1,0 +1,7 @@
+- Safari webpage share sheet to summarize article
+- Do anything with "clipboard"
+- Do anything with calendar via "my schedule"
+- Do anything with "live text"
+- "export chat"
+- Be called from other shortcuts
+- Share selected text

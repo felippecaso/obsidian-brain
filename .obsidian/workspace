@@ -1,0 +1,125 @@
+{
+  "main": {
+    "id": "80b3afd461cfa36f",
+    "type": "split",
+    "children": [
+      {
+        "id": "dd70f26c2e38782d",
+        "type": "leaf",
+        "state": {
+          "type": "empty",
+          "state": {}
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "cfa2cc983aa1f06c",
+    "type": "split",
+    "children": [
+      {
+        "id": "fa12a8bc7c97a33c",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "20b53cc679313b90",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "50bfb333260eb50a",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "sleep on it",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "e90311915ffd6de3",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "4ad3a1b84aab02f4",
+    "type": "split",
+    "children": [
+      {
+        "id": "34e9d9656245ded9",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "97ed56a585fa043a",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {}
+            }
+          },
+          {
+            "id": "cc063a063c98b8c7",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "25cd26ea06e37799",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "dd70f26c2e38782d",
+  "lastOpenFiles": [
+    "🗺 Areas/Health/Terapia.md",
+    "📖 Projects/Coalesce 2022 Talk/Talk Proposal - Coalesce 2022.md",
+    "🧩 Resources/Bio.md",
+    "📖 Projects/Coalesce 2022 Talk/US Travel Planning 2022-10.md",
+    "📖 Projects/Coalesce 2022 Talk/Talk Planning - Coalesce 2022.md",
+    "🧩 Resources/📚 Books/Hábitos Atômicos.md",
+    "Wardrobe Plan.md",
+    "🧩 Resources/Eleições 2022.md",
+    "🎹 Keyboard Rider.md",
+    "🧩 Resources/US Travel Requirements.md"
+  ]
+}

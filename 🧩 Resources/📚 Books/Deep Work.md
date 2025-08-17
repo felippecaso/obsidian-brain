@@ -1,0 +1,2 @@
+# Deep Work
+[[Cal Newport]]

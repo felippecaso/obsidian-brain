@@ -1,0 +1,3 @@
+- Acessibilidade no site da Loft
+	- Objetivo: ter PR pronto
+- Produto interno Dogfooding para Lofter comprar ou alugar

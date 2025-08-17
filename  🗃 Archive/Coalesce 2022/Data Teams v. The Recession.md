@@ -1,0 +1,33 @@
+[[Coalesce 2022]]
+[[Chetan Sharma]]
+
+- Scenario
+	- Tech stocks plummeting
+	- Layoffs everywhere in tech
+	- Every budget item needs justification
+		- It puts pressure on data leaders to articulate ROI
+	- It's not really clear how data leads to more customers/revenue
+	- Tools come in without scrutiny
+- Three ideas to drive an ROI story
+	- Core business reporting
+		- You need to know KPIs in a downturn
+		- Tie your analyses and insights to relevant KPIs at this point
+		- Core reporting justifies a small team
+			- Justifies some basic tooling: DW, BI, dbt
+			- Doesn't justify embedded data team model
+			- Only justifies a skeleton team of data workers
+		- Most asks of data teams are low consequence decisions
+			- E.g. how many users.....
+			- Product teams want to feel rigorous and justified
+			- Need a data point for every tactical decision
+			- The answers rarely change a decision -> get a product analytics tool
+	- Data-driven revenue
+		- High ROI data work directly drives decisions
+			- E.g. marketing optimization, product experiments, cost center reductions
+		- A/B experiments: data team's money maker
+			- Experimentation is a data platform
+			- Experimentation is a measurement process: it succeeds/fails by data pipeline integrity
+			- It drives investments in data infrastructure foundations
+- Be revenue driven, not revenue informing
+	- CFOs face tough choices in downturns
+	- Data teams should focus on tangible opportunities

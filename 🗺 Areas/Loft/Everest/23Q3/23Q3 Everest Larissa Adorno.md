@@ -1,0 +1,11 @@
+# 23Q3 Everest Larissa Adorno
+- Handover do report de comissões para time de ops
+	- Concluído
+	- Reforço do feedback positivo que falamos recentemente
+	- Edição dos relatórios, filtros
+- Estruturar dados de pós venda e pagamentos
+	- Mudamos para Estruturar dados do Funil de Vendas da ‘Imobiliária Loft’ com as fontes ideais de dados após migração para o Vista
+	- Oportunidade de colocar a mão em áreas mais técnicas do processo
+	- Continuidade ao mesmo tempo que cria novos vínculos - exemplo positivo de como tem feito com squads, e oportunidade de esticar também pra conectar pontas de vários times olhando pro mesmo objetivo
+		- O que impede: Sobre a intenção de incentivar análises, seria um desafio encontrar oportunidades relevantes e conseguir ter influência com stakeholders envolvidos. E sobre o Dollar Impact de Analytics, vejo que seria um desafio conseguir encontrar tarefas que realmente faz sentido essa análise e outras que geram um resultado indireto.
+	- Oportunidade de aplicar a fortaleza de análises e conexão com o negócio no meio desse processo de modelagem e disponibilização dos dados

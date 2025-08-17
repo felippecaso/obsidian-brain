@@ -1,0 +1,11 @@
+# 23Q4 Everest Nicholas Yano
+## Nossa gente nossa potência
+Te vejo como um grande exemplo de liderança que coloca a mão na massa ao mesmo tempo que assume a responsabilidade de decisões e processos junto com o time. Tem bastante relação com "geramos impacto entregando resultados" também. Em diversas frentes dentro do tema de C&B, te vi sempre buscando a melhor forma de garantir que os dados e comunicações necessárias estavam feitos.
+
+Apesar de não ter profundidade pra entender se isso acontece ou não, deixo um ponto de potencial cuidado pra que esse perfil mão na massa não crie uma dependência de alguma habilidade ou conhecimento que você tem, sem dar a oportunidade pra que você entregue esse resultado como time e tenha mais chance de estar envolvido em outras/maiores responsabilidades.
+## Empreendemos com coragem
+Principalmente dentro de frentes desafiadoras e com processos não muito definidos, te enxergo como alguém que "não escolhe tarefa" e assume responsabilidades que não estão bem definidas. Na minha visão isso não só te dá oportunidades de gerar impacto relevante em frentes descobertas, quanto leva a Loft para fora das discussões básicas e pra pontos mais profundos e relevantes - como em estarmos (finalmente) podendo falar em um processo de acompanhamento de orçado/realizado de custos de pessoas mais maduro entre áreas.
+## Geramos impacto entregando resultados
+Conectado com "nossa gente nossa potência", mas complementando, em vários momentos te vi buscando simplificar os conceitos e processos, ao mesmo tempo sem deixar de garantir a qualidade necessária.
+## Crescemos com os nossos clientes
+Nas nossas interfaces, sempre te vi como um exemplo de alguém que consegue distribuir responsabilidades de forma assertiva, ao mesmo tempo gerando comprometimento das partes responsáveis e sendo aderente às necessidades delas. Um bom exemplo é na gestão e criação das calculadoras de C&B com HRBPs. Deixaria o ponto de cuidado pra essa característica positiva não te impedir de gerar conflitos quando for necessário para defender alguma necessidade do negócio.

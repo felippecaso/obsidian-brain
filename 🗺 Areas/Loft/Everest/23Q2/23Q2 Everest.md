@@ -1,0 +1,23 @@
+# 23Q3 Everest
+## Objetivos por pessoa
+- [[Felippe Felisola Caso]]
+	- Construir sucessão
+	- Tirar do chão a plataforma analítica com Vista
+	- Desenhar o futuro de People Tech
+- [[Bruno Nunes]]
+	- Melhorar a percepção das entregas do time de analytics com uma abordagem de "dados como produto"
+	- Fazer o "phase-out" de analytics para gestão comercial B2C ([ANALYTICS-5](https://loftbr.atlassian.net/browse/ANALYTICS-5))
+- [[Fred Waldow]]
+	- Modelar as tabelas do Vista B2C
+	- Manter e melhorar a plataforma de Analytics
+- [[Larissa Adorno]]
+	- Entregar a responsabilidade da realização do Report de Comissões para o time de projetos ([ANALYTICS-3](https://loftbr.atlassian.net/browse/ANALYTICS-3))
+	- Estruturar dados de Pós Venda e Pagamentos com as fontes ideais de dados após migração para o Vista
+- [[Murillo Rodrigues]]
+	- Disponibilização de 100% dos dados de Vista CRM e Office no DL
+	- ???
+- [[Rafael Olszewski]]
+	- Modelagem de conceitos no domínio B2B
+	- Manutenção de consistência na modelagem das tabelas B2C
+- [[Leticia Santos]]
+	- Trazer visibilidade sobre os dados de pessoas do grupo Loft

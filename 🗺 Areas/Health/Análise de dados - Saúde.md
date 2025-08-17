@@ -1,0 +1,24 @@
+# Análise de dados - Saúde
+## Dados que podem ser usados
+- Horas de sono
+- Atividade física
+	- Horas de exercício
+	- Calorias por dia
+- Batimentos cardíacos
+- Medições Corporais
+	- Hormônios
+	- Glicose
+- Volume de trabalho
+	- Horas de trabalho
+	- Horas na frente do computador
+	- Número de horas em reuniões do Zoom
+- Lazer
+	- Lugares que estive
+- Religiosidade
+- Acontecimentos extenuantes
+	- Problemas na família
+	- Problemas no relacionamento
+	- Problemas com dinheiro
+	- Problemas de saúde pontuais
+- Tempo de tela em dispositivos
+- Alimentação/água

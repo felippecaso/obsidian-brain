@@ -1,0 +1,5 @@
+- Deputada Federal: 4040 (Tábata Amaral)
+- Deputado Estadual: 40321 (Abidan Henrique)
+- Senador: 123 (Aldo Rebelo)
+- Governador: 13 (Fernando Haddad)
+- Presidente: 13 (Lula)

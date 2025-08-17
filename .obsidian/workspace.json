@@ -1,0 +1,201 @@
+{
+  "main": {
+    "id": "80b3afd461cfa36f",
+    "type": "split",
+    "children": [
+      {
+        "id": "bfc33c8b8599f15e",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "6d754af6fba9386f",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "New tab"
+            }
+          }
+        ],
+        "stacked": true
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "cfa2cc983aa1f06c",
+    "type": "split",
+    "children": [
+      {
+        "id": "fa12a8bc7c97a33c",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "20b53cc679313b90",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "50bfb333260eb50a",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "e90311915ffd6de3",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "Plugin no longer active"
+            }
+          },
+          {
+            "id": "fbb004c31b7be3ed",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 397.5024719238281
+  },
+  "right": {
+    "id": "4ad3a1b84aab02f4",
+    "type": "split",
+    "children": [
+      {
+        "id": "34e9d9656245ded9",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "97ed56a585fa043a",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {},
+              "icon": "calendar-with-checkmark",
+              "title": "Calendar"
+            }
+          },
+          {
+            "id": "cc063a063c98b8c7",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "📖 Projects/Supernova/Supernova.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for Supernova"
+            }
+          },
+          {
+            "id": "25cd26ea06e37799",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "obsidian-excalidraw-plugin:New Excalidraw drawing": false,
+      "obsidian42-brat:BRAT": false,
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "custom-sort:Toggle custom sorting": false,
+      "obsidian-kindle-plugin:Sync your Kindle highlights": false,
+      "periodic-notes:Open today": false,
+      "obsidian-git:Open Git source control": false
+    }
+  },
+  "active": "20b53cc679313b90",
+  "lastOpenFiles": [
+    "🧩 Resources/Highlights/Kindle/Uma aprendizagem.md",
+    "🧩 Resources/Highlights/Kindle/Assis-Arrais-Dom Casmurro.md",
+    "🧩 Resources/Highlights/Kindle/Human Hacking.md",
+    "🧩 Resources/Highlights/Kindle/Hadnagy-Schulman-Human Hacking.md",
+    "🧩 Resources/Highlights/Kindle/Harari-Geiger-Homo Deus.md",
+    "🧩 Resources/Highlights/Kindle/Rovelli_et_al-The Order of Time.md",
+    "🗺 Areas/Health/Terapia.md",
+    "BR Finances.md",
+    " 🗃 Archive/Tattoo.md",
+    "🧩 Resources/_templates/Daily.md",
+    "🧩 Resources/_templates/1-1.md",
+    "🧩 Resources/_templates/Weekly.md",
+    "🧩 Resources/_templates/Loft . Planning.md",
+    "🗺 Areas/Technology/Programas Mac.md",
+    "🧩 Resources/⏰ Timestamps/2025/04-April/2025-04-07-Monday.md",
+    "🧩 Resources/⏰ Timestamps/2025/04-April/2025-04-14-Monday.md",
+    " 🗃 Archive/Data Council 2025.md",
+    " 🗃 Archive/Monzo Onboarding.md",
+    "Seja duro por dentro e mole por fora.md",
+    "Open Issues.md",
+    " 🗃 Archive/Monzo Bank.md",
+    " 🗃 Archive/Escalada.md",
+    "🧩 Resources/Mermaid Overview.md",
+    "🧩 Resources/sortspec.md",
+    "🧩 Resources/_templates/Carta de baralho.md",
+    "🧩 Resources/⏰ Timestamps/2025/04-April",
+    "🧩 Resources/⏰ Timestamps/2025",
+    "🧩 Resources/Highlights/Matter/Sunday Firesides- Covenants Over Contracts.md",
+    "📖 Projects/Supernova",
+    "🧩 Resources/⏰ Timestamps/2024/07-July",
+    "🧩 Resources/⏰ Timestamps/2024/04-April",
+    "🧩 Resources/⏰ Timestamps/2024/03-March",
+    "🧩 Resources/⏰ Timestamps/2024",
+    "🗺 Areas/Loft/Everest/21Q1",
+    "🗺 Areas/Loft/Everest/23Q4",
+    "🧩 Resources/⏰ Timestamps/2023/12-December"
+  ]
+}

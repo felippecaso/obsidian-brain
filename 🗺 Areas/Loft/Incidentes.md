@@ -1,0 +1,6 @@
+- Afobou no começo
+- Tempo pra atuar no incidente ou pra reportar no canal
+- Não tava claro que DataDog era obrigatório, e não ficou claro como associar o incidente no DataDog à tread no Slack
+- No DataDog, algumas coisas repetidas do que já tinha sido reportado no Slack
+- Time to mitigation não contabilizado certo (reportado no futuro). Bug ou feature?
+- Template no Confluence ajudou bastante, gerou um pouco de confusão só nas partes `Impacto` e `Detecção`.

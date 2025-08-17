@@ -1,0 +1,24 @@
+- Em Portugal, não é pelo consulado, é pelo SEF que gerencia somente pedido de residência (diferente de gerenciamento de visto)
+	- Esse órgão vai deixar de existir, vai tudo pra Polícia Federal
+- Estavam com backlog de 2 anos de atraso - estão processando pedidos de residência de 2021 (informação que vem por fontes não oficiais)
+- Tem 2 tipos
+	- Pessoa contratada (Ana)
+		- Costuma ser mais rápido que o segundo tipo
+	- Pessoa prestadora de serviços (Barbara)
+	- Uma não influencia na outra
+- 2 tipos que pode pedir
+	- Contrato de trabalho
+		- Pedido foi feito em janeiro/2023
+		- Não tem acionável, só esperar ser chamada
+		- Já subiu os documentos no site, no momento da entrevista eles entram em contato com a empresa e deve ter o cartão na mão em umas 2 semanas
+		- Tem duração de 1 ano
+		- Não está atrelado à existência do contrato de trabalho durante esse 1 ano
+	- Profissional altamente qualificado
+		- Não permite pedido de residência, precisa esperar surgir uma vaga
+		- Normalmente é mais rápido, em torno de 3 meses (por ser uma fila exclusiva)
+		- Por conta do backlog, disseram que até fim de março/2023 não iriam atender esse tipo de pedido
+		- Tem duração de 2 anos
+- Surgiu a residência automática para países de língua portuguesa
+	- É uma residência que só permite sair de Portugal e ir pro Brasil
+	- Fica legal por 1 ano
+	- Somente para pedidos que foram solicitados até fim de 2022

@@ -1,0 +1,23 @@
+# Programas Mac
+- Balance Lock
+- Bitwarden
+- Cron
+- Data Jar
+- DBeaver
+- Deep Channel
+- Espanso
+- Fig
+- Flux
+- GoodNotes
+- iTerm
+- Karabiner-Elements
+- Logi Options+
+- Obsidian
+- Raycast
+- Spark
+- Telegram
+- Warp
+- WhatsApp
+- Notion
+- Spotify
+- Stats

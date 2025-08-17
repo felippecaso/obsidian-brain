@@ -1,0 +1,5 @@
+# 21Q4 Everest [[Murillo Rodrigues]]
+
+Murillo, sua chegada ao time nos colocou em uma nova direção! A bagagem que você traz, junto com a disposição para colocar a mão na massa, foram essenciais para tirar o time de AE do chão em um momento complicado. Isso levou a algumas entregas valiosas, como o fortalecimento da camada lógica no e o compartilhamento de responsabilidades no consumo e geração de dados do SF.
+
+Como próximos passos, vejo oportunidade em você dar maior visibilidade das iniciativas que estão em progresso com a equipe. Isso tanto irá reforçar o valor delas, quanto (e principalmente) priorizá-las em conjunto com o restante de Analytics. Além disso, também pode buscar trabalhar maior influência em outras partes do roadmap da área, tanto pedindo ajuda para outros times quanto potencializando o valor do Trabalho em Equipe para você e time.

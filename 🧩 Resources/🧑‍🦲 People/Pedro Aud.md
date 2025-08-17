@@ -1,0 +1,21 @@
+# Pedro Aud
+## 1-1 [[2022-04-14]]
+- Visão própria:
+	- Foco em clientes
+		- Gestão de stakeholders
+		- Ponto que houve evolução
+		- Exemplo: com Moacyr para análise de preços (que foi despriorizada)
+			- Interações e atualizações constantes
+	- Trabalho em equipe
+		- Dinâmica de trabalho com [[Patricia Nascimento]] fluindo bem e gerando resultados positivos
+	- Conhecimento técnico e prático
+		- Sente que subestima a complexidade das coisas
+	- Adaptabilidade + Gestão de tempo e planejamento
+		- Consegue mudar o rumo no meio da semana conforme novas informações chegam
+	- Comunicação e Influência
+		- Comunicação assíncrona com [[Patricia Nascimento]] funcionando
+	- Utilização de Dados
+		- Se enxerga desenvolvendo como referência dentro de Supply
+- Principais entregas:
+	- Migração de tabelas para dbt
+	- Análise de fotos
